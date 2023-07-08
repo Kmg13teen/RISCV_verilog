@@ -1,0 +1,12 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/Student/Downloads/project_Li/GROUP-8-FINAL/GROUP-8-FINAL.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/Student/Downloads/project_Li/GROUP-8-FINAL/GROUP-8-FINAL.srcs/sim_1/new/final_tb.v,1682873392,verilog,,,,last_tb,,,,,,,,
+C:/Users/Student/Downloads/project_Li/GROUP-8-FINAL/GROUP-8-FINAL.srcs/sources_1/new/alu.v,1682872449,verilog,,C:/Users/Student/Downloads/project_Li/GROUP-8-FINAL/GROUP-8-FINAL.srcs/sources_1/new/d_cache.v,,ALU;addercell;mulcell;subcell,,,,,,,,
+C:/Users/Student/Downloads/project_Li/GROUP-8-FINAL/GROUP-8-FINAL.srcs/sources_1/new/d_cache.v,1682872428,verilog,,C:/Users/Student/Downloads/project_Li/GROUP-8-FINAL/GROUP-8-FINAL.srcs/sources_1/new/decoder.v,,datamem,,,,,,,,
+C:/Users/Student/Downloads/project_Li/GROUP-8-FINAL/GROUP-8-FINAL.srcs/sources_1/new/decoder.v,1682872413,verilog,,C:/Users/Student/Downloads/project_Li/GROUP-8-FINAL/GROUP-8-FINAL.srcs/sources_1/new/l_cache.v,,decoder_unit,,,,,,,,
+C:/Users/Student/Downloads/project_Li/GROUP-8-FINAL/GROUP-8-FINAL.srcs/sources_1/new/l_cache.v,1682872399,verilog,,C:/Users/Student/Downloads/project_Li/GROUP-8-FINAL/GROUP-8-FINAL.srcs/sources_1/new/main.v,,inmem,,,,,,,,
+C:/Users/Student/Downloads/project_Li/GROUP-8-FINAL/GROUP-8-FINAL.srcs/sources_1/new/main.v,1682873106,verilog,,C:/Users/Student/Downloads/project_Li/GROUP-8-FINAL/GROUP-8-FINAL.srcs/sources_1/new/register_file.v,,main,,,,,,,,
+C:/Users/Student/Downloads/project_Li/GROUP-8-FINAL/GROUP-8-FINAL.srcs/sources_1/new/register_file.v,1682872379,verilog,,C:/Users/Student/Downloads/project_Li/GROUP-8-FINAL/GROUP-8-FINAL.srcs/sim_1/new/final_tb.v,,register,,,,,,,,

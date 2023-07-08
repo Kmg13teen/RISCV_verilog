@@ -1,0 +1,19 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+forwarded
+Entered Register File to write the value          0 at destination register 29 at time =                  500
+forwarded
+Entered Register File to write the value          1 at destination register 30 at time =                  600
+forwarded
+Entered Register File to write the value         45 at destination register 28 at time =                  700
+forwarded
+Entered Register File to write the value 4294967276 at destination register 27 at time =                  800
+forwarded
+forwarded
+Entered Register File to write the value          x at destination register 10 at time =                  900
+forwarded
+Entered Data_Memory Block to write the value         25 at 0 th address
+Entered Data_Memory Block to write the value         25 at 0 th address
+Entered Data_Memory Block to write the value         25 at 0 th address
+Entered Register File to write the value         25 at destination register 10 at time =                 1000
+Entered Data_Memory Block to write the value         25 at 0 th address
